@@ -3,6 +3,8 @@
 
 *iml
 
+out/*
+
 *.class
 
 # Log file
