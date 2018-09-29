@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello world!!!");
         Parent parent=new Parent();
         Child child=new Child();
+
     }
 }
